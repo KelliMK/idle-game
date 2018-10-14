@@ -19,8 +19,6 @@ public class IdleGame {
 			}
 			
 			input = key.next();
-			
-			key.close();
 		}
 	}
 }
